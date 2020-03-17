@@ -136,7 +136,7 @@ Allan Rodríguez Dávila
 
    
 
-### Declaración de variables
+### **Declaración de variables**
 
 - [x] Maneje los tipos de variables enteras, reales, booleanas, caracteres, cadenas de
 caracteres (string), arreglo estático de enteros y valor nulo
