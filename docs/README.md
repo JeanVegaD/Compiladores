@@ -9,8 +9,8 @@ Tarea I
 
 **Estudiantes:**  
 Jean Anthony Vega Díaz (2016009280)  
-Joseph Cortes Arce  
-Josue Cano García
+Joseph Cortes Arce  (2017164532)
+Josue Cano García (2017100062)
 
 **Profesor:**  
 Allan Rodríguez Dávila
